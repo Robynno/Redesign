@@ -10,6 +10,28 @@
 	padding-right: 0px;
 	padding-bottom: 0px;
 }
+
+.row h2{
+	text-align: center;
+	color: #109D97;
+
+}
+h2 {
+    text-align: center;
+	color: #109D97;
+}
+.big-text {
+	font-size: 1.5rem;  
+	line-height: 1.6;   
+	background-color: #109D97;
+	
+  }
+  .big-text h2 {
+    color: #FFFFFF;
+}
+  .big-text p{
+	color:#FFFFFF;
+  }
 .row {
 	display: flex; /*	added for flexible screen*/
     flex-wrap: wrap;
@@ -53,11 +75,7 @@
 	margin-left: 0px;
 	margin-right: 0px;
 }
-.big-text {
-	font-size: 1.5rem;  /* Adjust the size as needed */
-	line-height: 1.6;   /* Optional: increases readability */
-  }
-  
+
 .row .columns p {
 	padding-left: 10%;
 	padding-right: 10%;
@@ -212,15 +230,6 @@
 	text-align: center;
 }
 
-.row h2{
-	text-align: center;
-	color: #109D97;
-
-}
-h2 {
-    text-align: center;
-	color: #109D97;
-}
 
 .right_half {
 	background-color: #109D97;
